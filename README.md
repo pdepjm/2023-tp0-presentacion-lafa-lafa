@@ -7,7 +7,7 @@ Nombre y apellido: Tomás Lafalce
 
 **me gusta que me digan Lafa asi q porfi llamenme así** (hiper clave para llevarse bien conmigo por favor, si no, me siento muy incómodo)
 
-Soy de Boca, amo el fútbol y los deportes
+'#0969DA Soy de Boca, amo el fútbol y los deportes'
 
 AMO tomar mate (soy un mate con patitas) el vitel toné, el roquefort y las hamburguesas
 
